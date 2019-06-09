@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   title: 后台
 
-basePath: /crm-fast
+basePath: /crm
 
 schemes:
   - http
